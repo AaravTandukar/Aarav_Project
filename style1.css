@@ -1,0 +1,127 @@
+
+body{
+
+	background-image: url(pic2.jpg);
+	background-size: cover;
+}
+li{ color: antiquewhite;
+	background-color: blueviolet;
+    list-style: none;
+    
+    display: table-cell;
+    font-size: xx-large;
+    border: 5px solid mistyrose;
+    text-transform: uppercase;
+    text-shadow: 15px 15px #ff0000;
+}
+
+
+h1{
+color: mistyrose;
+background-color:gold ;
+text-align: center;
+border: 15px solid silver;
+ text-transform: uppercase;
+    text-shadow: 5px 5px #ff0000;
+}
+
+p,hr{ color: blue;
+
+
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    transition: all .5s;
+    float: right;
+    opacity: 1;
+
+}
+
+img:hover {
+cursor: pointer;
+    transform: scale(1.5);
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
